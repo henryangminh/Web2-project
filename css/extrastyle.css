@@ -1,0 +1,53 @@
+select.input.aside-input {
+    width: 60%;
+}
+
+select.input.aside-sex-input {
+    width: 69%;
+}
+
+input.input.aside-input {
+    width: 41.5%;
+}
+
+select.input.aside-size-input {
+    width: 84%;
+}
+
+select.input.aside-type-input {
+    width: 83%;
+}
+
+button.primary-btn.aside-button {
+    width: 48.5%;
+}
+
+input.checkbox-aside {
+    margin-left: 10px;
+}
+
+select.input.aside-sort-by {
+    width: 25%;
+}
+
+select.input.aside-sort {
+    width: 45%;
+}
+
+button.primary-btn.sort-btn {
+    background: none;
+    padding: 0;
+}
+
+input.primary-btn.login {
+    width: 100%;
+}
+
+input.primary-btn.register {
+    width: 49.5%;
+}
+
+.edit-del {
+    width: 25%;
+    margin-right:20px;
+}
